@@ -1,0 +1,24 @@
+{
+  "name": "git-repo",
+  "version": "1.0.0",
+  "description": "Numcamp Training on using NPM",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokhakun/git-repo.git"
+  },
+  "author": "Sokha Ung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokhakun/git-repo/issues"
+  },
+  "homepage": "https://github.com/sokhakun/git-repo#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
